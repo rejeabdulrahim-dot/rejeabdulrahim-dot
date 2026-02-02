@@ -1,10 +1,4 @@
-## Hi there 👋
 
-<!--
-**rejeabdulrahim-dot/rejeabdulrahim-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
 # 💫 About Me:
 Hi im Abdul-Rahim.<br>Industrial engineering student CPUT.<br>DATA DRIVEN and analytical thinker.<br>Website builder.<br>
 
